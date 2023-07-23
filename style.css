@@ -6,12 +6,12 @@
     flex-direction: row;
 }
 #main-left{
-    width: 40vw;
+    width: 45vw;
     background: linear-gradient(0deg, rgba(0 0 0 / 35%), rgba(0 0 0 / 35%)), url(sample.jpg);
     background-size: cover;
 }
 #main-right{
-    width: 60vw;
+    width: 55vw;
 }
 .flex-item{
     width: 50vw;
